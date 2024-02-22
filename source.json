@@ -4,7 +4,8 @@
     "url":"https://sophiebluevr.github.io/vpm/index.json",
     "author":{
         "email":"sophie@somethingsomething.org",
-        "name":"SophieBlue"
+        "name":"SophieBlue",
+        "url":"http://github.com/SophieBlueVR"
     },
     "description":"SophieBlue's VRChat packages",
     "infoLink":{
