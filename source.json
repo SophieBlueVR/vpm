@@ -14,8 +14,9 @@
     },
     "bannerUrl":"",
     "githubRepos":[
-        "SophieBlueVR/AvatarDresser",
         "SophieBlueVR/ArmatureCleanup",
-        "SophieBlueVR/ArmatureReset"
+        "SophieBlueVR/ArmatureReset",
+        "SophieBlueVR/AvatarDresser",
+        "SophieBlueVR/ExtraFootColliders"
     ]
 }
