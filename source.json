@@ -17,6 +17,7 @@
         "SophieBlueVR/ArmatureCleanup",
         "SophieBlueVR/ArmatureReset",
         "SophieBlueVR/AvatarDresser",
-        "SophieBlueVR/ExtraFootColliders"
+        "SophieBlueVR/ExtraFootColliders",
+        "SophieBlueVR/UdonScripts"
     ]
 }
